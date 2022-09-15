@@ -1,0 +1,13 @@
+.parentDiv{
+    border:1px solid rgb(231, 218, 218);
+    border-radius: 5px;
+}
+
+.heading h1{
+    color:#44475b;
+    font-family: Roboto,system-ui;
+    font-weight: normal;
+    display:flex;
+    justify-content: flex-start;
+    padding:0px 20px;
+}

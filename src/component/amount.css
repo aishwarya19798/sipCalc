@@ -1,0 +1,23 @@
+.amount{
+    display: flex;
+    flex-direction: column;
+    padding:20px;
+    max-width: 50%;
+}
+
+.amount h3{
+    color:#434657cb;
+    font-family: Roboto,system-ui;
+    font-weight: normal;
+}
+
+.amount div{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.amount span{
+    color:#44475be6;
+    font-weight: bold;
+}
